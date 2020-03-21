@@ -31,3 +31,11 @@ body {
 #home-button {
     font-size: 250%;
 }
+
+.center-window {
+    border-color: darkgrey;
+    align-self: center;
+    width: 500px;
+    height: 100px;
+    border-width: thick;
+}
