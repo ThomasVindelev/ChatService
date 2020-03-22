@@ -21,12 +21,7 @@ body {
     text-decoration: none;
     font-size: 150%;
     color: rgb(112, 69, 69);
-}
-
-.top-bar a:hover {
-    background-color: rebeccapurple;
-    border-radius: 10%;
-}
+} 
 
 #home-button {
     font-size: 250%;
